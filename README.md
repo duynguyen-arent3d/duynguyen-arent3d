@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duy Nguyen from Arent
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently focusing Javascript (ReactJS / NextJS), Typescript and CSS Framework (Material UI / Tailwind CSS)
+- 🌱 I’m currently focusing **Javascript** (ReactJS / NextJS), **Typescript** and **CSS Framework** (Material UI / Tailwind CSS)
 - 💞️ I’m looking to collaborate on Web UI/UX domain
 - 📫 How to reach me? [Email me!](mailto:duy.nguyen@arent3d.com)
 
